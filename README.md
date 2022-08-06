@@ -9,4 +9,5 @@ Documetation included on the main folder:
 
 Intallation guide
 Database source : 'demo_lara'
+
 Documentation : 'Review Final Group 1 - The Flower Shop'
